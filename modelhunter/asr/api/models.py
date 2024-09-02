@@ -3,3 +3,10 @@
 # Desc    : 
 # Author  : Damon
 # E-mail  : bingzhenli@hotmail.com
+
+class InferenceReqParam:
+    pass
+
+
+class RespParam:
+    pass
