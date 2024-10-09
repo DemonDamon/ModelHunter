@@ -27,7 +27,7 @@ github下来项目：
     cd extras/
     ./check_dependencies.sh
 
-这一步可能会出现很多问题，需要仔细核查，「如果是mac和windows可能报错不同，mac建议直接用homebrew安装，不要使用pip」，只需要在最后一行大概率会出现：
+这一步可能会出现很多问题，需要仔细核查，如果是mac和windows可能报错不同，mac建议直接用homebrew安装，不要使用pip」，只需要在最后一行大概率会出现：
 
     ...
     extras/check_dependencies.sh: neither libtoolize nor glibtoolize is installed
